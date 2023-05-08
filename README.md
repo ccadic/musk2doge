@@ -1,6 +1,8 @@
 # musk2doge
 Petit robot de pistage des tweets d'elon musk sur le Dorge
 
+![alt text](https://github.com/ccadic/musk2doge/blob/main/presentation/intro1.jpg)
+
 Le Script Python MUSK2Doge - un robot qui piste les tweets d'Elon Musk pour détecter des mots clés et aider à maximiser vos profits en cryptomonnaie.
 
 Dans le monde de la cryptomonnaie, chaque décision peut avoir un impact majeur sur vos investissements. C'est pourquoi nous avons créé MUSK2Doge, un script Python conçu pour suivre de près l'activité Twitter d'Elon Musk et détecter les tweets liés à la cryptomonnaie DOGECOIN.
