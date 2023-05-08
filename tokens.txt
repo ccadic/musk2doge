@@ -1,0 +1,6 @@
+
+How to find telegram chat ID 
+https://www.alphr.com/find-chat-id-telegram/
+
+How to get access to Twitter API
+https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api

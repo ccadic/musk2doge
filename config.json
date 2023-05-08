@@ -1,0 +1,17 @@
+{
+    "twitter": {
+        "consumer_key": "your key here",
+        "consumer_secret": "you secret here",
+        "access_token": "acces token",
+        "access_token_secret": "access token secret",
+        "screen_name": "twitter user name with no @",
+        "keywords": ["dogecoin", "#dogecoin", "#doge"]
+
+    },
+    "telegram": {
+        "token": "telegram token",
+        "chat_id": "chat room id were the robot has bee added"
+    },
+
+    "interval_seconds": 60
+}
